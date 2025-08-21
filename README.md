@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [JoePhillippe] 👋
 
-<!--
-**JoePhillippe/JoePhillippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-113 AI Fundamentals and learning to collaborate with AI tools!
 
-Here are some ideas to get you started:
+## My Foo 🎯
+[YOUR PASSION HERE - be specific! Are you into vintage synthesizers? 
+Competitive origami? Urban sketching? This is what makes you memorable!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Building my first AI assistants
+
+## Fun Fact
+[Something unexpected about you]
+
+## Find Me
+- 📫 Right here on GitHub!
