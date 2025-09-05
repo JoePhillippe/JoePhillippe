@@ -29,7 +29,7 @@ def mac_mentor_bot(message):
     )
     return response.content[0].text
 
-# Test the bot
+# Test the bot good MAC
 test_message = "Is this a valid MAC address: E0-73-E7-11-DC-2A"
 
 try:
@@ -37,5 +37,15 @@ try:
     print("MACMentor Response:", result)
 except Exception as e:
     print(f"Error: {e}")
+    
+#Test the bot bad MAC
+test_message = "Is this not a valid MAC address: Z0-73-Z7-11-WQ5-2A"
+
+try:
+    result = mac_mentor_bot(test_message)
+    print("MACMentor Response:", result)
+except Exception as e:
+    print(f"Error: {e}")
+    
     
     
