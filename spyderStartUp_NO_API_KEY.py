@@ -2,6 +2,7 @@
 """
 Created on Thu Oct  9 11:57:58 2025
 
+
 @author: phillipj0367
 """
 
@@ -17,10 +18,11 @@ os.environ['ANTHROPIC_API_KEY'] = 'NAPI_KEY_HERE'
 
 # Set working directory
 import os
-os.chdir(r'C:\Users\phillipj0367\OneDrive - Fayetteville Technical Community College\Documents\CSC-113')
+os.chdir(r'C:\Users\Worker\Documentes\CSC113')
 
 print("=" * 60)
 print("✅ Spyder Environment Configured!")
 print("✅ ANTHROPIC_API_KEY set")
 print("✅ Working directory set")
+
 print("=" * 60)
